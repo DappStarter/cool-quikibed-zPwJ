@@ -1,0 +1,15 @@
+{
+    "name": "MintGuard",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token/name": "MintGuard",
+        "/category/asset_value_tracking/core-token/symbol": "MGD",
+        "/category/asset_value_tracking/core-token/decimals": "5",
+        "/category/asset_value_tracking/core-token/supply": "100000000"
+    }
+}
